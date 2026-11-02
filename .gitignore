@@ -1,0 +1,16 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.pyc
+# files produced when running the notebooks
+notebooks/*.tif
+notebooks/*.geojson
+notebooks/*.csv
+notebooks/*.joblib
+notebooks/app.py
+notebooks/Procfile
+notebooks/requirements.txt
+notebooks/temp_converter.py
+notebooks/eurosat/
+# instructor solutions are distributed separately
+solutions/

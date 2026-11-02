@@ -1,0 +1,22 @@
+# conda env create -f environment.yml && conda activate ml4eo
+name: ml4eo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - geopandas
+  - rasterio
+  - rioxarray
+  - xarray
+  - jupyterlab
+  - earthengine-api
+  - geemap
+  - pytorch
+  - torchvision
+  - streamlit
+  - joblib
+  - pip

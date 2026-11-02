@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+geopandas
+rasterio
+rioxarray
+xarray
+jupyterlab
+earthengine-api
+geemap
+torch
+torchvision
+streamlit
+joblib
