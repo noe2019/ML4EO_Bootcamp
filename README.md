@@ -45,6 +45,19 @@ By the end of the course, students can design, run and validate a machine-learni
 | 14 | **Reproducibility, ethics, communication**<br>*Reproductibilité, éthique et diffusion* | Git, ethics checklist, Streamlit app | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/noe2019/ML4EO_Bootcamp/blob/main/notebooks/14_diffusion_streamlit.ipynb) [`14_diffusion_streamlit`](notebooks/14_diffusion_streamlit.ipynb) | Progress report |
 | 15 | **Project presentations**<br>*Présentations des projets* | Talks and peer feedback | — | Presentation · final report |
 
+## Training tracks · Parcours de formation
+
+The course is offered in three programs; each session is a full session (●), an in-class demonstration with an optional lab (○), or not part of the track (—).
+*Le cours s'offre dans trois cursus ; chaque séance est complète (●), démontrée en classe avec laboratoire facultatif (○) ou hors parcours (—).*
+
+| Track · Parcours | Target programs · Programmes visés | Full sessions (●) | Demonstrations (○) | Hours |
+|---|---|---|---|---|
+| **Geomatics / environment** · *Géomatique / environnement* | UdeS Applied Geomatics (bachelor's, master's); Bishop's Environmental Studies and Geography | S1–S12, S14, S15 | S13 | 45 h |
+| **Computer science** · *Informatique* | UdeS Computer Science (AI and data science master's, bachelor's); Bishop's Computer Science | S3–S15 | S1, S2 (fast Python review) | 45 h |
+| **College / continuing education** · *Cégep / formation continue* | Cégep de Sherbrooke continuing education (AEC); UdeS continuing education | S1–S5, S7, S9, S10, S14, S15 | S6, S11 | 30 h (→ 45 h) |
+
+The header of every notebook repeats the status of the session for each track. · *L'en-tête de chaque notebook rappelle le statut de la séance pour chaque parcours.*
+
 ## Assessment · Évaluation
 
 | Component | Weight |
